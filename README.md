@@ -1,6 +1,6 @@
 # ADS_CLASS2022_11_03_WHILE
 
-Simple console aplication for trainning While. Visual studio(.NET 6).Language programming: C#.
+Simple console aplication for training While. Visual studio(.NET 6).Language programming: C#.
 
 The program checks the age of a user. While the age is 18 years or more, the user can vote.
 
